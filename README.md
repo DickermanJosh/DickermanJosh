@@ -1,8 +1,21 @@
 # Hi, I'm Josh 👋
 
 <div>
-  <a href="https://www.linkedin.com/in/josh-dickerman-086630268/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" height="24px" hspace="5px" /></a>
-  <a href="https://github.com/Bullpup-Games"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unity.svg" alt="Bullpup Games" title="Bullpup Games" height="100px" hspace="5px" align="right"/></a>
+  <a href="https://www.linkedin.com/in/josh-dickerman-086630268/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" 
+         title="LinkedIn" 
+         height="24px" 
+         hspace="5px" />
+  </a>
+  <a href="https://github.com/Bullpup-Games">
+    <img src="./BullpupGames_VerBlack.png" 
+         alt="Bullpup Games" 
+         title="Bullpup Games" 
+         height="100px" 
+         hspace="5px" 
+         align="right"/>
+  </a>
 </div>
 
 <br>
