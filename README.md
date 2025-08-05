@@ -32,14 +32,14 @@
 ## Languages and Tools
 
 <div>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="24px" hspace="5px" /></a>
   <a href="https://unity.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" title="Unity" height="24px" hspace="5px" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" title="C#" height="24px" hspace="5px" /></a>
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++" height="24px" hspace="5px" /></a>
+  <a href="https://www.opengl.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="OpenGL" title="OpenGL" height="24px" hspace="5px" /></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" title="C" height="24px" hspace="5px" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" height="24px" hspace="5px" /></a>
-  <a href="https://www.opengl.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/OpenGL_logo.svg" alt="OpenGL" title="OpenGL" height="24px" hspace="5px" /></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="24px" hspace="5px" /></a>
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="24px" hspace="5px" /></a>
+  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" height="24px" hspace="5px" /></a>
   <a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" height="24px" hspace="5px" /></a>
   <a href="https://k3s.io/"><img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/k3s/icon/color/k3s-icon-color.svg" alt="k3s" title="k3s" height="24px" hspace="5px" /></a>
 </div>
