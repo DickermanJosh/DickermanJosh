@@ -1,4 +1,4 @@
-# Hi, I'm Josh 👋
+# Hi, I'm [Josh](https://www.jdickerman.com/) 👋
 
 <div>
   <a href="https://www.linkedin.com/in/josh-dickerman-086630268/">
