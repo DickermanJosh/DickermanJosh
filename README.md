@@ -26,7 +26,7 @@
 - 🎮 **Co-founder of [Bullpup Games](https://github.com/Bullpup-Games)**, an indie studio currently expanding _Pocket Pickers_ beyond its original release scope  
 - ♟ **Solo Developer** of a multiplayer chess game in Unity with .NET networking (future AI bot integration planned)  
 - 🛠 Skilled in designing modular gameplay systems, integrating third-party assets, and collaborating closely with designers, artists and other programmers
-- 📚 **Currently Learning:** [.NET](https://dotnet.microsoft.com/en-us/learn) · [React](https://react.dev/) · [Next.js](https://nextjs.org/)  
+- 📚 **Currently Learning:** [n8n](https://n8n.io/) [.NET](https://dotnet.microsoft.com/en-us/learn)
 - 🎯 Passionate about building engaging gameplay systems, delivering smooth player experiences, and crafting polished audiovisual storytelling  
 
 ## Languages and Tools
