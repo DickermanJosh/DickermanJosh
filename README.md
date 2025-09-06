@@ -20,14 +20,12 @@
 
 <br>
 
-- 🎓 **B.S. in Computer Science** with a concentration in Game Development – CSUMB  
-- 💼 **Jr. Software Engineer** at [Portal Robotics Inc](https://www.portalrobotics.com/)  
-- 🏆 **Developer of _Pocket Pickers_**, an award-winning Unity stealth-action platformer (CSUMB Fall 2024 Capstone Award – Best Integrated Design)  
-- 🎮 **Co-founder of [Bullpup Games](https://github.com/Bullpup-Games)**, an indie studio currently expanding _Pocket Pickers_ beyond its original release scope  
-- ♟ **Solo Developer** of a multiplayer chess game in Unity with .NET networking (future AI bot integration planned)  
-- 🛠 Skilled in designing modular gameplay systems, integrating third-party assets, and collaborating closely with designers, artists and other programmers
-- 📚 **Currently Learning:** [n8n](https://n8n.io/) [.NET](https://dotnet.microsoft.com/en-us/learn)
-- 🎯 Passionate about building engaging gameplay systems, delivering smooth player experiences, and crafting polished audiovisual storytelling  
+- **B.S. in Computer Science** with a concentration in Game Development – CSUMB  
+- **Jr. Software Engineer** at [Portal Robotics Inc](https://www.portalrobotics.com/)  
+- **Developer of _Pocket Pickers_**, an award-winning Unity stealth-action platformer (CSUMB Fall 2024 Capstone Award – Best Integrated Design)  
+- **Co-founder of [Bullpup Games](https://github.com/Bullpup-Games)**, an indie studio currently expanding _Pocket Pickers_ beyond its original release scope  
+- **Currently Learning:** [n8n](https://n8n.io/) [.NET](https://dotnet.microsoft.com/en-us/learn)
+- Passionate about building engaging gameplay systems, delivering smooth player experiences, and crafting polished audiovisual storytelling  
 
 ## Languages and Tools
 
